@@ -58,4 +58,4 @@ print("Total hand:", myhand)
 
 # compute exact theoretical probability of getting blackjack
 prob_blackjack = (4/52)*(16/51) + (16/52)*(4/51)
-print("The probability of getting 21 on the first draw is:", (4/52)*(16/51) + (16/52)*(4/51), "its not even 1/2 because casinos want the adavantage this is why you should stop gambling.")
+print("The probability of getting 21 on the first draw is:", (4/52)*(16/51) + (16/52)*(4/51), " because casinos want the adavantage this is why you should stop gambling.")
